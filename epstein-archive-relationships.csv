@@ -1,0 +1,1001 @@
+entity_a,entity_b,relationship_type,strength
+Jeffrey Epstein,Ghislaine Maxwell,associate,421
+Laura Menninger,Ghislaine Maxwell,co-mentioned,97
+Bobbi Sternheim,Laura Menninger,co-mentioned,61
+Ghislaine Maxwell,Damian Williams,co-mentioned,53
+Jeffrey Epstein,Prince Andrew,social-associate,50
+Alexander Acosta,Jeffrey Epstein,legal-action,47
+Jeffrey Epstein,Donald Trump,social-associate,46
+Jeffrey Epstein,Laura Menninger,co-mentioned,42
+Jeffrey Epstein,Brad Edwards,co-mentioned,37
+Ghislaine Maxwell,Virginia Giuffre,accused-by,36
+Ghislaine Maxwell,Prince Andrew,social-associate,35
+Jeffrey Epstein,Bill Clinton,social-associate,29
+Bill Clinton,Ghislaine Maxwell,co-passenger,28
+Jeffrey Epstein,Leon Black,financial-client,27
+Ghislaine Maxwell,Sigrid McCawley,co-mentioned,26
+David Boies,Ghislaine Maxwell,co-mentioned,23
+Jeffrey Epstein,Alan Dershowitz,legal-counsel,23
+Laura Menninger,Damian Williams,co-mentioned,22
+Jeffrey Epstein,Jean-Luc Brunel,associate,20
+Bill Clinton,Kevin Spacey,co-passenger,19
+Bill Clinton,Chris Tucker,co-passenger,19
+Ghislaine Maxwell,Kevin Spacey,co-passenger,19
+Jeffrey Epstein,Sigrid McCawley,co-mentioned,18
+Chris Tucker,Ghislaine Maxwell,co-passenger,18
+Chris Tucker,Kevin Spacey,co-passenger,18
+Jeffrey Epstein,Sarah Kellen,employee,18
+Jeffrey Epstein,David Boies,co-mentioned,17
+Jeffrey Epstein,Virginia Giuffre,victim-perpetrator,17
+Bobbi Sternheim,Ghislaine Maxwell,co-mentioned,16
+Ghislaine Maxwell,Jean-Luc Brunel,business-associate,15
+Jeffrey Epstein,Denise George,co-mentioned,15
+Jeffrey Epstein,Larry Visoski,employee,15
+Harvey Weinstein,Jeffrey Epstein,co-mentioned,15
+Ghislaine Maxwell,Sarah Kellen,co-passenger,14
+Donald Trump,Ghislaine Maxwell,co-mentioned,13
+Donald Trump,Prince Andrew,co-mentioned,13
+Jeffrey Epstein,Geoffrey Berman,co-mentioned,13
+Jeffrey Epstein,Julie K. Brown,co-mentioned,13
+Harvey Weinstein,Donald Trump,co-mentioned,12
+Bill Clinton,Donald Trump,co-mentioned,12
+Bill Clinton,Prince Andrew,co-mentioned,12
+Jeffrey Epstein,Jes Staley,financial-associate,12
+Jeffrey Epstein,Nadia Marcinkova,employee,12
+Jeffrey Epstein,Bill Richardson,social-associate,12
+Donald Trump,Leon Black,co-mentioned,11
+Geoffrey Berman,Prince Andrew,co-mentioned,11
+David Boies,Sigrid McCawley,co-mentioned,11
+Paul Cassell,Brad Edwards,co-mentioned,10
+Alison Nathan,Ghislaine Maxwell,co-mentioned,10
+Alan Dershowitz,Ghislaine Maxwell,co-mentioned,10
+Harvey Weinstein,Ghislaine Maxwell,co-mentioned,9
+David Rodgers,Laura Menninger,co-mentioned,9
+Jeffrey Epstein,Paul Cassell,co-mentioned,9
+Virginia Giuffre,Prince Andrew,accused,9
+Nadia Marcinkova,Sarah Kellen,co-passenger,9
+Brad Edwards,Sigrid McCawley,co-mentioned,9
+Alan Dershowitz,Prince Andrew,co-mentioned,8
+David Rodgers,Bobbi Sternheim,co-mentioned,8
+Donald Trump,Geoffrey Berman,co-mentioned,8
+Jeffrey Epstein,Leslie Wexner,financial-associate,8
+Ghislaine Maxwell,Brad Edwards,co-mentioned,8
+Jeffrey Epstein,Bill Gates,social-associate,8
+Jeffrey Epstein,Alison Nathan,co-mentioned,8
+Donald Trump,Alexander Acosta,co-mentioned,7
+Jeffrey Epstein,Bobbi Sternheim,co-mentioned,7
+Jeffrey Epstein,Richard Berman,co-mentioned,7
+Ghislaine Maxwell,Robert Maxwell,family,7
+Nadia Marcinkova,Ghislaine Maxwell,co-passenger,7
+Alexander Acosta,Julie K. Brown,co-mentioned,6
+Harvey Weinstein,Prince Andrew,co-mentioned,6
+Donald Trump,Julie K. Brown,co-mentioned,6
+Larry Visoski,Ghislaine Maxwell,co-mentioned,6
+Jeffrey Epstein,Naomi Campbell,social-associate,6
+Jeffrey Epstein,David Rodgers,employee,6
+Jeffrey Epstein,Glenn Dubin,social-associate,6
+Larry Visoski,David Rodgers,co-mentioned,6
+Jeffrey Epstein,Palm Beach Mansion,co-mentioned,6
+Harvey Weinstein,Bill Clinton,co-mentioned,6
+Jeffrey Epstein,Manhattan Townhouse,co-mentioned,6
+Ghislaine Maxwell,Alison Moe,co-mentioned,6
+Ghislaine Maxwell,Bill Richardson,co-passenger,6
+Jeffrey Epstein,Metropolitan Correctional Center,co-mentioned,5
+Robert Maxwell,Prince Andrew,co-mentioned,5
+Juan Alessi,Ghislaine Maxwell,co-mentioned,5
+Bill Clinton,Alexander Acosta,co-mentioned,5
+JPMorgan Chase,Jeffrey Epstein,banking,5
+Donald Trump,Alan Dershowitz,co-mentioned,5
+Maurene Comey,Alison Moe,co-mentioned,5
+Bobbi Sternheim,Damian Williams,co-mentioned,5
+Geoffrey Berman,Ghislaine Maxwell,co-mentioned,5
+Naomi Campbell,Jean-Luc Brunel,co-passenger,5
+Eva Dubin,Ghislaine Maxwell,co-passenger,5
+Jeffrey Epstein,Little St. James Island,co-mentioned,5
+Jeffrey Epstein,Robert Maxwell,co-mentioned,5
+Zorro Ranch,Jeffrey Epstein,co-mentioned,5
+Laura Menninger,Sigrid McCawley,co-mentioned,5
+Alan Dershowitz,Sarah Kellen,co-passenger,5
+Maurene Comey,Ghislaine Maxwell,co-mentioned,4
+Jean-Luc Brunel,Sarah Kellen,co-passenger,4
+Virginia Giuffre,Alan Dershowitz,accused,4
+George Mitchell,Ghislaine Maxwell,co-mentioned,4
+George Mitchell,Bill Richardson,co-mentioned,4
+George Mitchell,Prince Andrew,co-mentioned,4
+Nadia Marcinkova,Jean-Luc Brunel,co-passenger,4
+Jeffrey Epstein,Palm Beach Police Department,co-mentioned,4
+Joseph Recarey,Palm Beach Police Department,co-mentioned,4
+Michael Baden,Jeffrey Epstein,co-mentioned,4
+Donald Trump,Bill Richardson,co-mentioned,4
+Denise George,Little St. James Island,co-mentioned,4
+Bill Clinton,Leslie Wexner,co-mentioned,4
+Jeffrey Epstein,Juan Alessi,employee,4
+Zorro Ranch,Ghislaine Maxwell,co-mentioned,4
+Jeffrey Epstein,Chris Tucker,co-mentioned,4
+Jeffrey Epstein,Kevin Spacey,co-mentioned,4
+Naomi Campbell,Ghislaine Maxwell,co-passenger,4
+David Rodgers,Ghislaine Maxwell,co-mentioned,4
+Jeffrey Epstein,Sergey Brin,co-mentioned,4
+Jeffrey Epstein,Eva Dubin,co-passenger,4
+Laura Menninger,David Boies,co-mentioned,4
+Julie K. Brown,Ghislaine Maxwell,co-mentioned,4
+Bill Clinton,Robert Maxwell,co-mentioned,4
+Donald Trump,Robert Maxwell,co-mentioned,4
+Bill Clinton,Geoffrey Berman,co-mentioned,4
+Jeffrey Epstein,Alison Moe,co-mentioned,4
+David Boies,Brad Edwards,co-mentioned,4
+Jeffrey Epstein,Damian Williams,co-mentioned,4
+Alexander Acosta,Ghislaine Maxwell,co-mentioned,4
+Ghislaine Maxwell,Paul Cassell,co-mentioned,4
+Jeffrey Epstein,George Mitchell,social-associate,4
+Glenn Dubin,Ghislaine Maxwell,co-passenger,4
+Harvey Weinstein,David Copperfield,co-mentioned,3
+Alan Dershowitz,George Mitchell,co-mentioned,3
+Jeffrey Epstein,Ehud Barak,social-associate,3
+Naomi Campbell,Prince Andrew,co-mentioned,3
+Alan Dershowitz,Bill Richardson,co-mentioned,3
+Jeffrey Epstein,USVI Attorney General,co-mentioned,3
+Bill Clinton,Julie K. Brown,co-mentioned,3
+Julie K. Brown,Prince Andrew,co-mentioned,3
+Jean-Luc Brunel,Prince Andrew,co-mentioned,3
+Virginia Giuffre,Mar-a-Lago,co-mentioned,3
+Denise George,USVI Attorney General,co-mentioned,3
+Little St. James Island,USVI Attorney General,co-mentioned,3
+Alexander Acosta,Paul Cassell,co-mentioned,3
+Alexander Acosta,Brad Edwards,co-mentioned,3
+Haley Robson,Palm Beach Police Department,co-mentioned,3
+Deutsche Bank,Jeffrey Epstein,banking,3
+Eva Dubin,Glenn Dubin,co-passenger,3
+JPMorgan Chase,Jes Staley,co-mentioned,3
+Alan Dershowitz,Alexander Acosta,co-mentioned,3
+Richard Berman,Ghislaine Maxwell,co-mentioned,3
+Jeffrey Epstein,Peter Mandelson,co-mentioned,3
+Leslie Wexner,Prince Andrew,co-mentioned,3
+Donald Trump,Glenn Dubin,co-mentioned,3
+Bill Clinton,Sergey Brin,co-mentioned,3
+Bill Clinton,Glenn Dubin,co-mentioned,3
+Donald Trump,David Copperfield,co-mentioned,3
+Donald Trump,Michael Jackson,co-mentioned,3
+Jeffrey Epstein,Lesley Groff,employee,3
+Jeffrey Epstein,Mar-a-Lago,co-mentioned,3
+Bill Clinton,Alan Dershowitz,co-mentioned,3
+Great St. James Island,Jeffrey Epstein,co-mentioned,3
+Bill Clinton,David Copperfield,co-mentioned,3
+Bill Clinton,Jean-Luc Brunel,co-mentioned,3
+Joseph Recarey,Michael Reiter,co-mentioned,3
+Bill Clinton,George Mitchell,co-mentioned,3
+Palm Beach Police Department,Michael Reiter,co-mentioned,3
+Glenn Dubin,Prince Andrew,co-mentioned,3
+Lesley Groff,Sarah Kellen,co-mentioned,3
+Sergey Brin,Prince Andrew,co-mentioned,3
+Jeffrey Epstein,Joseph Recarey,co-mentioned,3
+Federal Bureau of Investigation,Jeffrey Epstein,investigation,3
+Jeffrey Epstein,Lawrence Krauss,co-mentioned,3
+Palm Beach Mansion,Palm Beach Police Department,co-mentioned,3
+Donald Trump,Leslie Wexner,co-mentioned,3
+Donald Trump,Virginia Giuffre,co-mentioned,3
+Virginia Giuffre,David Boies,co-mentioned,3
+Bill Clinton,Naomi Campbell,co-mentioned,3
+Jeffrey Epstein,Michael Jackson,co-mentioned,3
+David Copperfield,Prince Andrew,co-mentioned,3
+Annie Farmer,Ghislaine Maxwell,co-mentioned,3
+Bill Richardson,Prince Andrew,co-mentioned,3
+Donald Trump,George Mitchell,co-mentioned,3
+Harvey Weinstein,Glenn Dubin,co-mentioned,3
+Zorro Ranch,Virginia Giuffre,co-mentioned,3
+Jeffrey Epstein,Steve Bannon,co-mentioned,3
+Jeffrey Epstein,"St. Thomas, USVI",co-mentioned,3
+Glenn Dubin,David Copperfield,co-mentioned,3
+Donald Trump,Sergey Brin,co-mentioned,3
+Harvey Weinstein,Geoffrey Berman,co-mentioned,3
+Jeffrey Epstein,David Copperfield,social-associate,3
+Great St. James Island,Little St. James Island,co-mentioned,3
+Carolyn (Trial Witness),Ghislaine Maxwell,co-mentioned,3
+Donald Trump,David Boies,co-mentioned,3
+Jane (Trial Witness),Ghislaine Maxwell,co-mentioned,3
+Southern District of New York (SDNY),Ghislaine Maxwell,prosecution,3
+Haley Robson,Joseph Recarey,co-mentioned,3
+Donald Trump,Peter Mandelson,co-mentioned,2
+Donald Trump,Tom Barrack,co-mentioned,2
+Donald Trump,Stephen Hawking,co-mentioned,2
+Donald Trump,Naomi Campbell,co-mentioned,2
+Donald Trump,Demi Moore,co-mentioned,2
+Donald Trump,Henry Kissinger,co-mentioned,2
+Donald Trump,Tony Blair,co-mentioned,2
+Donald Trump,Woody Allen,co-mentioned,2
+Woody Allen,Michael Jackson,co-mentioned,2
+Woody Allen,Prince Andrew,co-mentioned,2
+Donald Trump,Itzhak Perlman,co-mentioned,2
+Donald Trump,Rupert Murdoch,co-mentioned,2
+Teterboro Airport,Jeffrey Epstein,co-mentioned,2
+Woody Allen,Rupert Murdoch,co-mentioned,2
+Leslie Wexner,Noam Chomsky,co-mentioned,2
+Leslie Wexner,Peter Mandelson,co-mentioned,2
+Leslie Wexner,Tom Barrack,co-mentioned,2
+Leslie Wexner,Stephen Hawking,co-mentioned,2
+Leslie Wexner,Naomi Campbell,co-mentioned,2
+Leslie Wexner,Demi Moore,co-mentioned,2
+Leslie Wexner,Glenn Dubin,co-mentioned,2
+Leslie Wexner,Henry Kissinger,co-mentioned,2
+Nadia Marcinkova,Alan Dershowitz,co-mentioned,2
+Bill Clinton,David Rodgers,co-mentioned,2
+Bill Clinton,"St. Thomas, USVI",co-mentioned,2
+MC2 Model Management,Ghislaine Maxwell,co-mentioned,2
+Marvin Minsky,Little St. James Island,co-mentioned,2
+Leslie Wexner,Tony Blair,co-mentioned,2
+Leslie Wexner,David Copperfield,co-mentioned,2
+Woody Allen,Itzhak Perlman,co-mentioned,2
+Leslie Wexner,Sergey Brin,co-mentioned,2
+Leslie Wexner,Woody Allen,co-mentioned,2
+Leslie Wexner,George Mitchell,co-mentioned,2
+Leslie Wexner,Itzhak Perlman,co-mentioned,2
+Leslie Wexner,Rupert Murdoch,co-mentioned,2
+Palm Beach Mansion,Michael Reiter,co-mentioned,2
+Zorro Ranch,Bill Richardson,co-mentioned,2
+Chris Tucker,David Rodgers,co-mentioned,2
+Leslie Wexner,Michael Jackson,co-mentioned,2
+Ehud Barak,Prince Andrew,co-mentioned,2
+Harvey Weinstein,Bill Richardson,co-mentioned,2
+Chris Tucker,Prince Andrew,co-mentioned,2
+Sergey Brin,Michael Jackson,co-mentioned,2
+Glenn Dubin,Jean-Luc Brunel,co-mentioned,2
+Zorro Ranch,Denise George,co-mentioned,2
+Zorro Ranch,Little St. James Island,co-mentioned,2
+David Rodgers,Kevin Spacey,co-mentioned,2
+Alan Dershowitz,Marvin Minsky,co-mentioned,2
+Alan Dershowitz,Glenn Dubin,co-mentioned,2
+Alan Dershowitz,David Copperfield,co-mentioned,2
+Ehud Barak,Bill Richardson,co-mentioned,2
+Alan Dershowitz,Jean-Luc Brunel,co-mentioned,2
+Sergey Brin,Rupert Murdoch,co-mentioned,2
+Prince Andrew,Kevin Spacey,co-mentioned,2
+Great St. James Island,"St. Thomas, USVI",co-mentioned,2
+Great St. James Island,Denise George,co-mentioned,2
+Great St. James Island,USVI Attorney General,co-mentioned,2
+"St. Thomas, USVI",Denise George,co-mentioned,2
+"St. Thomas, USVI",Little St. James Island,co-mentioned,2
+"St. Thomas, USVI",USVI Attorney General,co-mentioned,2
+Sergey Brin,Itzhak Perlman,co-mentioned,2
+Sergey Brin,Woody Allen,co-mentioned,2
+Courtney Wild,Paul Cassell,co-mentioned,2
+Courtney Wild,Brad Edwards,co-mentioned,2
+Jean-Luc Brunel,Bill Richardson,co-mentioned,2
+Alan Dershowitz,Adriana Ross,co-mentioned,2
+Jeffrey Epstein,Noam Chomsky,co-mentioned,2
+Jeffrey Epstein,Tom Barrack,co-mentioned,2
+Jeffrey Epstein,Stephen Hawking,co-mentioned,2
+Jeffrey Epstein,Demi Moore,co-mentioned,2
+Haley Robson,Michael Reiter,co-mentioned,2
+Jeffrey Epstein,Henry Kissinger,co-mentioned,2
+Jeffrey Epstein,Tony Blair,co-mentioned,2
+Bill Clinton,Bill Richardson,co-mentioned,2
+Jeffrey Epstein,Woody Allen,co-mentioned,2
+Ehud Barak,Ghislaine Maxwell,co-mentioned,2
+Jeffrey Epstein,Barclays,co-mentioned,2
+Barclays,Jes Staley,co-mentioned,2
+Jeffrey Epstein,Itzhak Perlman,co-mentioned,2
+Jeffrey Epstein,Rupert Murdoch,co-mentioned,2
+David Copperfield,Michael Jackson,co-mentioned,2
+David Copperfield,Rupert Murdoch,co-mentioned,2
+Noam Chomsky,Peter Mandelson,co-mentioned,2
+Noam Chomsky,Tom Barrack,co-mentioned,2
+Noam Chomsky,Stephen Hawking,co-mentioned,2
+Noam Chomsky,Naomi Campbell,co-mentioned,2
+Noam Chomsky,Demi Moore,co-mentioned,2
+Noam Chomsky,Glenn Dubin,co-mentioned,2
+Noam Chomsky,Henry Kissinger,co-mentioned,2
+Noam Chomsky,Tony Blair,co-mentioned,2
+Noam Chomsky,David Copperfield,co-mentioned,2
+David Copperfield,Itzhak Perlman,co-mentioned,2
+Noam Chomsky,Sergey Brin,co-mentioned,2
+Noam Chomsky,Woody Allen,co-mentioned,2
+Lesley Groff,Alexander Acosta,co-mentioned,2
+Noam Chomsky,Itzhak Perlman,co-mentioned,2
+Noam Chomsky,Rupert Murdoch,co-mentioned,2
+David Copperfield,Woody Allen,co-mentioned,2
+Noam Chomsky,Prince Andrew,co-mentioned,2
+David Copperfield,Sergey Brin,co-mentioned,2
+Glenn Dubin,George Mitchell,co-mentioned,2
+Tony Blair,Michael Jackson,co-mentioned,2
+Noam Chomsky,Michael Jackson,co-mentioned,2
+Peter Mandelson,Tom Barrack,co-mentioned,2
+David Copperfield,Jean-Luc Brunel,co-mentioned,2
+Tony Blair,Prince Andrew,co-mentioned,2
+Tony Blair,Rupert Murdoch,co-mentioned,2
+Tony Blair,Itzhak Perlman,co-mentioned,2
+Peter Mandelson,Stephen Hawking,co-mentioned,2
+Peter Mandelson,Naomi Campbell,co-mentioned,2
+Peter Mandelson,Demi Moore,co-mentioned,2
+Ehud Barak,George Mitchell,co-mentioned,2
+Harvey Weinstein,Julie K. Brown,co-mentioned,2
+Tony Blair,Woody Allen,co-mentioned,2
+Tony Blair,Sergey Brin,co-mentioned,2
+Lesley Groff,Federal Bureau of Investigation,co-mentioned,2
+Bill Clinton,Little St. James Island,co-mentioned,2
+Peter Mandelson,Glenn Dubin,co-mentioned,2
+Jean-Luc Brunel,George Mitchell,co-mentioned,2
+Tony Blair,David Copperfield,co-mentioned,2
+Henry Kissinger,Michael Jackson,co-mentioned,2
+Leon Black,Brad Edwards,co-mentioned,2
+Henry Kissinger,Prince Andrew,co-mentioned,2
+Jean-Luc Brunel,MC2 Model Management,co-mentioned,2
+Henry Kissinger,Rupert Murdoch,co-mentioned,2
+Henry Kissinger,Itzhak Perlman,co-mentioned,2
+Jeffrey Epstein,Marvin Minsky,social-associate,2
+Henry Kissinger,Woody Allen,co-mentioned,2
+Peter Mandelson,Henry Kissinger,co-mentioned,2
+Steve Bannon,Ghislaine Maxwell,co-mentioned,2
+Henry Kissinger,Sergey Brin,co-mentioned,2
+Maurene Comey,Jeffrey Epstein,co-mentioned,2
+Bill Clinton,Denise George,co-mentioned,2
+Sarah Kellen,Federal Bureau of Investigation,co-mentioned,2
+Ehud Barak,Jean-Luc Brunel,co-mentioned,2
+Peter Mandelson,Tony Blair,co-mentioned,2
+Peter Mandelson,David Copperfield,co-mentioned,2
+Henry Kissinger,David Copperfield,co-mentioned,2
+Peter Mandelson,Sergey Brin,co-mentioned,2
+Leslie Wexner,Ghislaine Maxwell,co-mentioned,2
+Henry Kissinger,Tony Blair,co-mentioned,2
+Peter Mandelson,Woody Allen,co-mentioned,2
+Bill Clinton,Ehud Barak,co-mentioned,2
+Glenn Dubin,Bill Richardson,co-mentioned,2
+Peter Mandelson,Itzhak Perlman,co-mentioned,2
+Leslie Wexner,Chris Tucker,co-mentioned,2
+Peter Mandelson,Rupert Murdoch,co-mentioned,2
+Glenn Dubin,Michael Jackson,co-mentioned,2
+Peter Mandelson,Prince Andrew,co-mentioned,2
+Peter Mandelson,Michael Jackson,co-mentioned,2
+Tom Barrack,Stephen Hawking,co-mentioned,2
+Tom Barrack,Naomi Campbell,co-mentioned,2
+Tom Barrack,Demi Moore,co-mentioned,2
+Tom Barrack,Glenn Dubin,co-mentioned,2
+Donald Trump,Kevin Spacey,co-mentioned,2
+Tom Barrack,Henry Kissinger,co-mentioned,2
+Tom Barrack,Tony Blair,co-mentioned,2
+Tom Barrack,David Copperfield,co-mentioned,2
+Glenn Dubin,Rupert Murdoch,co-mentioned,2
+Alan Dershowitz,David Boies,co-mentioned,2
+Alan Dershowitz,Sigrid McCawley,co-mentioned,2
+Geoffrey Berman,Leon Black,co-mentioned,2
+Geoffrey Berman,Bill Richardson,co-mentioned,2
+Leon Black,Bill Richardson,co-mentioned,2
+Donald Trump,Steve Bannon,co-mentioned,2
+Tom Barrack,Sergey Brin,co-mentioned,2
+David Rodgers,Juan Alessi,co-mentioned,2
+Tom Barrack,Woody Allen,co-mentioned,2
+Ehud Barak,David Copperfield,co-mentioned,2
+Tom Barrack,Itzhak Perlman,co-mentioned,2
+Tom Barrack,Rupert Murdoch,co-mentioned,2
+Bill Clinton,Richard Berman,co-mentioned,2
+Bill Clinton,Lawrence Krauss,co-mentioned,2
+Bill Clinton,Paul Cassell,co-mentioned,2
+Donald Trump,Richard Berman,co-mentioned,2
+Donald Trump,Lawrence Krauss,co-mentioned,2
+Donald Trump,Paul Cassell,co-mentioned,2
+Richard Berman,Alexander Acosta,co-mentioned,2
+Richard Berman,Julie K. Brown,co-mentioned,2
+Richard Berman,Lawrence Krauss,co-mentioned,2
+Richard Berman,Geoffrey Berman,co-mentioned,2
+Richard Berman,Robert Maxwell,co-mentioned,2
+Richard Berman,Prince Andrew,co-mentioned,2
+Richard Berman,Paul Cassell,co-mentioned,2
+Alexander Acosta,Lawrence Krauss,co-mentioned,2
+Alexander Acosta,Geoffrey Berman,co-mentioned,2
+Alexander Acosta,Robert Maxwell,co-mentioned,2
+Alexander Acosta,Prince Andrew,co-mentioned,2
+Julie K. Brown,Lawrence Krauss,co-mentioned,2
+Julie K. Brown,Geoffrey Berman,co-mentioned,2
+Julie K. Brown,Robert Maxwell,co-mentioned,2
+Julie K. Brown,Paul Cassell,co-mentioned,2
+Lawrence Krauss,Geoffrey Berman,co-mentioned,2
+Lawrence Krauss,Robert Maxwell,co-mentioned,2
+Lawrence Krauss,Ghislaine Maxwell,co-mentioned,2
+Lawrence Krauss,Prince Andrew,co-mentioned,2
+Lawrence Krauss,Paul Cassell,co-mentioned,2
+Geoffrey Berman,Robert Maxwell,co-mentioned,2
+Geoffrey Berman,Paul Cassell,co-mentioned,2
+Robert Maxwell,Paul Cassell,co-mentioned,2
+Ehud Barak,Donald Trump,co-mentioned,2
+Prince Andrew,Paul Cassell,co-mentioned,2
+Tom Barrack,Prince Andrew,co-mentioned,2
+Tom Barrack,Michael Jackson,co-mentioned,2
+Stephen Hawking,Naomi Campbell,co-mentioned,2
+Stephen Hawking,Demi Moore,co-mentioned,2
+Stephen Hawking,Glenn Dubin,co-mentioned,2
+Stephen Hawking,Henry Kissinger,co-mentioned,2
+Stephen Hawking,Tony Blair,co-mentioned,2
+Stephen Hawking,David Copperfield,co-mentioned,2
+Virginia Giuffre,Jean-Luc Brunel,co-mentioned,2
+Stephen Hawking,Sergey Brin,co-mentioned,2
+Stephen Hawking,Woody Allen,co-mentioned,2
+Virginia Giuffre,MC2 Model Management,co-mentioned,2
+Paul Cassell,Sigrid McCawley,co-mentioned,2
+Stephen Hawking,Itzhak Perlman,co-mentioned,2
+Stephen Hawking,Rupert Murdoch,co-mentioned,2
+Virginia Giuffre,George Mitchell,co-mentioned,2
+Stephen Hawking,Prince Andrew,co-mentioned,2
+Stephen Hawking,Michael Jackson,co-mentioned,2
+Naomi Campbell,Demi Moore,co-mentioned,2
+Naomi Campbell,Glenn Dubin,co-mentioned,2
+Naomi Campbell,Henry Kissinger,co-mentioned,2
+Naomi Campbell,Tony Blair,co-mentioned,2
+Naomi Campbell,David Copperfield,co-mentioned,2
+David Copperfield,Bill Richardson,co-mentioned,2
+Naomi Campbell,Sergey Brin,co-mentioned,2
+Naomi Campbell,Woody Allen,co-mentioned,2
+Virginia Giuffre,Robert Giuffre,co-mentioned,2
+Naomi Campbell,Itzhak Perlman,co-mentioned,2
+Naomi Campbell,Rupert Murdoch,co-mentioned,2
+Naomi Campbell,Michael Jackson,co-mentioned,2
+Demi Moore,Glenn Dubin,co-mentioned,2
+Demi Moore,Henry Kissinger,co-mentioned,2
+Demi Moore,Tony Blair,co-mentioned,2
+Demi Moore,David Copperfield,co-mentioned,2
+Demi Moore,Sergey Brin,co-mentioned,2
+Demi Moore,Woody Allen,co-mentioned,2
+Virginia Giuffre,Bill Richardson,co-mentioned,2
+Demi Moore,Itzhak Perlman,co-mentioned,2
+Bill Clinton,Marvin Minsky,co-mentioned,2
+Demi Moore,Prince Andrew,co-mentioned,2
+Demi Moore,Michael Jackson,co-mentioned,2
+Glenn Dubin,Henry Kissinger,co-mentioned,2
+Glenn Dubin,Tony Blair,co-mentioned,2
+Glenn Dubin,Sergey Brin,co-mentioned,2
+Glenn Dubin,Woody Allen,co-mentioned,2
+Glenn Dubin,Itzhak Perlman,co-mentioned,2
+Virginia Giuffre,Denise George,co-mentioned,2
+Jeffrey Epstein,MC2 Model Management,co-mentioned,2
+Jeffrey Epstein,Robert Giuffre,co-mentioned,2
+Jeffrey Epstein,Adriana Ross,co-mentioned,2
+Ehud Barak,Glenn Dubin,co-mentioned,2
+Jeffrey Epstein,MIT Media Lab,beneficiary,2
+Ehud Barak,Virginia Giuffre,co-mentioned,2
+Marvin Minsky,George Mitchell,co-mentioned,2
+Nadia Marcinkova,Lesley Groff,co-mentioned,2
+Laura Menninger,Alison Moe,co-mentioned,2
+Marvin Minsky,Ghislaine Maxwell,co-mentioned,2
+Ehud Barak,Alan Dershowitz,co-mentioned,2
+Alison Nathan,Damian Williams,co-mentioned,2
+Leon Black,Apollo Global Management,founded,2
+Annie Farmer,Zorro Ranch,co-mentioned,2
+Southern District of New York (SDNY),Damian Williams,co-mentioned,2
+Annie Farmer,Jeffrey Epstein,co-mentioned,2
+Annie Farmer,Carolyn (Trial Witness),co-mentioned,2
+Nadia Marcinkova,Adriana Ross,co-mentioned,2
+Annie Farmer,Jane (Trial Witness),co-mentioned,2
+Virginia Giuffre,Manhattan Townhouse,co-mentioned,2
+Southern District of New York (SDNY),Alison Nathan,co-mentioned,2
+Manhattan Townhouse,Ghislaine Maxwell,co-mentioned,2
+Ghislaine Maxwell,Mar-a-Lago,co-mentioned,2
+Jeffrey Epstein,Apollo Global Management,co-mentioned,2
+Virginia Giuffre,Jane (Trial Witness),co-mentioned,2
+Jeffrey Epstein,Carolyn (Trial Witness),co-mentioned,2
+Miami Herald,Julie K. Brown,co-mentioned,2
+Robert Giuffre,Mar-a-Lago,co-mentioned,2
+Ghislaine Maxwell,Denise George,co-mentioned,2
+Carolyn (Trial Witness),Jane (Trial Witness),co-mentioned,2
+Jeffrey Epstein,Victoria's Secret,exploitation,2
+Haley Robson,Jeffrey Epstein,co-mentioned,2
+Demi Moore,Rupert Murdoch,co-mentioned,2
+David Copperfield,George Mitchell,co-mentioned,2
+Marvin Minsky,Bill Richardson,co-mentioned,2
+Robert Giuffre,Ghislaine Maxwell,co-mentioned,2
+Leslie Wexner,Victoria's Secret,ownership,2
+Jeffrey Epstein,Miami Herald,co-mentioned,2
+Marvin Minsky,Prince Andrew,co-mentioned,2
+George Mitchell,Denise George,co-mentioned,2
+Prince Andrew,Sigrid McCawley,co-mentioned,2
+Harvey Weinstein,Ehud Barak,co-mentioned,2
+Adriana Ross,Sarah Kellen,co-mentioned,2
+Virginia Giuffre,Sigrid McCawley,co-mentioned,2
+Donald Trump,Jean-Luc Brunel,co-mentioned,2
+Palm Beach Mansion,Ghislaine Maxwell,co-mentioned,2
+Southern District of New York (SDNY),Federal Bureau of Investigation,co-mentioned,2
+Kate (Trial Witness),Ghislaine Maxwell,co-mentioned,2
+Bill Richardson,Denise George,co-mentioned,2
+Prince Andrew,Michael Jackson,co-mentioned,2
+Harvey Weinstein,Alan Dershowitz,co-mentioned,2
+Ghislaine Maxwell,Federal Bureau of Investigation,co-mentioned,2
+Donald Trump,Mar-a-Lago,co-mentioned,2
+Jeffrey Epstein,Harvard University,beneficiary,2
+Rupert Murdoch,Michael Jackson,co-mentioned,2
+Jeffrey Epstein,Michael Reiter,co-mentioned,2
+Harvey Weinstein,Leslie Wexner,co-mentioned,2
+Harvey Weinstein,Noam Chomsky,co-mentioned,2
+Harvey Weinstein,Peter Mandelson,co-mentioned,2
+Harvey Weinstein,Tom Barrack,co-mentioned,2
+Harvey Weinstein,Stephen Hawking,co-mentioned,2
+Harvey Weinstein,Naomi Campbell,co-mentioned,2
+Harvey Weinstein,Demi Moore,co-mentioned,2
+Harvey Weinstein,Henry Kissinger,co-mentioned,2
+Harvey Weinstein,Tony Blair,co-mentioned,2
+Harvey Weinstein,Sergey Brin,co-mentioned,2
+Harvey Weinstein,Woody Allen,co-mentioned,2
+Harvey Weinstein,Itzhak Perlman,co-mentioned,2
+Harvey Weinstein,Rupert Murdoch,co-mentioned,2
+Harvey Weinstein,Michael Jackson,co-mentioned,2
+Palm Beach Mansion,Joseph Recarey,co-mentioned,2
+Bill Clinton,Noam Chomsky,co-mentioned,2
+Leslie Wexner,Manhattan Townhouse,co-mentioned,2
+Bill Clinton,Peter Mandelson,co-mentioned,2
+Bill Clinton,Tom Barrack,co-mentioned,2
+Leslie Wexner,L Brands,co-mentioned,2
+Bill Clinton,Stephen Hawking,co-mentioned,2
+Bill Clinton,Demi Moore,co-mentioned,2
+Bill Clinton,Henry Kissinger,co-mentioned,2
+Victoria's Secret,Manhattan Townhouse,co-mentioned,2
+Bill Clinton,Tony Blair,co-mentioned,2
+Victoria's Secret,L Brands,co-mentioned,2
+Bill Clinton,Woody Allen,co-mentioned,2
+Bill Clinton,Itzhak Perlman,co-mentioned,2
+Bill Clinton,Rupert Murdoch,co-mentioned,2
+Bill Gates,Manhattan Townhouse,co-mentioned,2
+Bill Clinton,Michael Jackson,co-mentioned,2
+Rupert Murdoch,Prince Andrew,co-mentioned,2
+Itzhak Perlman,Michael Jackson,co-mentioned,2
+Itzhak Perlman,Prince Andrew,co-mentioned,2
+Jeffrey Epstein,L Brands,co-mentioned,2
+Manhattan Townhouse,L Brands,co-mentioned,2
+Harvey Weinstein,Jean-Luc Brunel,co-mentioned,2
+Marvin Minsky,Denise George,co-mentioned,2
+Harvey Weinstein,George Mitchell,co-mentioned,2
+Itzhak Perlman,Rupert Murdoch,co-mentioned,2
+Zorro Ranch,George Mitchell,co-mentioned,2
+Donald Trump,Noam Chomsky,co-mentioned,2
+Alexander Acosta,Sergey Brin,co-mentioned,1
+Southern District of New York (SDNY),Jeffrey Epstein,prosecution,1
+Manhattan Townhouse,Prince Andrew,co-mentioned,1
+Harvey Weinstein,Nadia Marcinkova,co-mentioned,1
+Harvey Weinstein,Zorro Ranch,co-mentioned,1
+Harvey Weinstein,Virginia Giuffre,co-mentioned,1
+Harvey Weinstein,Marvin Minsky,co-mentioned,1
+Harvey Weinstein,MC2 Model Management,co-mentioned,1
+Harvey Weinstein,Robert Giuffre,co-mentioned,1
+Harvey Weinstein,Adriana Ross,co-mentioned,1
+Harvey Weinstein,Mar-a-Lago,co-mentioned,1
+Harvey Weinstein,Sarah Kellen,co-mentioned,1
+Harvey Weinstein,Denise George,co-mentioned,1
+Harvey Weinstein,Little St. James Island,co-mentioned,1
+Bill Clinton,Nadia Marcinkova,co-mentioned,1
+Bill Clinton,Zorro Ranch,co-mentioned,1
+Bill Clinton,Virginia Giuffre,co-mentioned,1
+Bill Clinton,MC2 Model Management,co-mentioned,1
+Bill Clinton,Robert Giuffre,co-mentioned,1
+Bill Clinton,Adriana Ross,co-mentioned,1
+Bill Clinton,Mar-a-Lago,co-mentioned,1
+Bill Clinton,Sarah Kellen,co-mentioned,1
+Ehud Barak,Nadia Marcinkova,co-mentioned,1
+Ehud Barak,Zorro Ranch,co-mentioned,1
+Ehud Barak,Marvin Minsky,co-mentioned,1
+Ehud Barak,MC2 Model Management,co-mentioned,1
+Ehud Barak,Robert Giuffre,co-mentioned,1
+Ehud Barak,Adriana Ross,co-mentioned,1
+Ehud Barak,Mar-a-Lago,co-mentioned,1
+Ehud Barak,Sarah Kellen,co-mentioned,1
+Ehud Barak,Denise George,co-mentioned,1
+Ehud Barak,Little St. James Island,co-mentioned,1
+Nadia Marcinkova,Donald Trump,co-mentioned,1
+Nadia Marcinkova,Zorro Ranch,co-mentioned,1
+Nadia Marcinkova,Virginia Giuffre,co-mentioned,1
+Nadia Marcinkova,Marvin Minsky,co-mentioned,1
+Nadia Marcinkova,Glenn Dubin,co-mentioned,1
+Nadia Marcinkova,David Copperfield,co-mentioned,1
+Nadia Marcinkova,MC2 Model Management,co-mentioned,1
+Nadia Marcinkova,George Mitchell,co-mentioned,1
+Nadia Marcinkova,Robert Giuffre,co-mentioned,1
+Nadia Marcinkova,Mar-a-Lago,co-mentioned,1
+Nadia Marcinkova,Bill Richardson,co-mentioned,1
+Nadia Marcinkova,Prince Andrew,co-mentioned,1
+Nadia Marcinkova,Denise George,co-mentioned,1
+Nadia Marcinkova,Little St. James Island,co-mentioned,1
+Donald Trump,Zorro Ranch,co-mentioned,1
+Donald Trump,Marvin Minsky,co-mentioned,1
+Donald Trump,MC2 Model Management,co-mentioned,1
+Donald Trump,Robert Giuffre,co-mentioned,1
+Donald Trump,Adriana Ross,co-mentioned,1
+Donald Trump,Sarah Kellen,co-mentioned,1
+Donald Trump,Denise George,co-mentioned,1
+Donald Trump,Little St. James Island,co-mentioned,1
+Zorro Ranch,Alan Dershowitz,co-mentioned,1
+Zorro Ranch,Marvin Minsky,co-mentioned,1
+Zorro Ranch,Glenn Dubin,co-mentioned,1
+Zorro Ranch,David Copperfield,co-mentioned,1
+Zorro Ranch,Jean-Luc Brunel,co-mentioned,1
+Zorro Ranch,MC2 Model Management,co-mentioned,1
+Zorro Ranch,Robert Giuffre,co-mentioned,1
+Zorro Ranch,Adriana Ross,co-mentioned,1
+Zorro Ranch,Mar-a-Lago,co-mentioned,1
+Zorro Ranch,Prince Andrew,co-mentioned,1
+Zorro Ranch,Sarah Kellen,co-mentioned,1
+Alan Dershowitz,MC2 Model Management,co-mentioned,1
+Alan Dershowitz,Robert Giuffre,co-mentioned,1
+Alan Dershowitz,Mar-a-Lago,co-mentioned,1
+Alan Dershowitz,Denise George,co-mentioned,1
+Alan Dershowitz,Little St. James Island,co-mentioned,1
+Virginia Giuffre,Marvin Minsky,co-mentioned,1
+Virginia Giuffre,Glenn Dubin,co-mentioned,1
+Virginia Giuffre,David Copperfield,co-mentioned,1
+Virginia Giuffre,Adriana Ross,co-mentioned,1
+Virginia Giuffre,Sarah Kellen,co-mentioned,1
+Virginia Giuffre,Little St. James Island,co-mentioned,1
+Marvin Minsky,Glenn Dubin,co-mentioned,1
+Marvin Minsky,David Copperfield,co-mentioned,1
+Marvin Minsky,Jean-Luc Brunel,co-mentioned,1
+Marvin Minsky,MC2 Model Management,co-mentioned,1
+Marvin Minsky,Robert Giuffre,co-mentioned,1
+Marvin Minsky,Adriana Ross,co-mentioned,1
+Marvin Minsky,Mar-a-Lago,co-mentioned,1
+Marvin Minsky,Sarah Kellen,co-mentioned,1
+Glenn Dubin,MC2 Model Management,co-mentioned,1
+Glenn Dubin,Robert Giuffre,co-mentioned,1
+Glenn Dubin,Adriana Ross,co-mentioned,1
+Glenn Dubin,Mar-a-Lago,co-mentioned,1
+Glenn Dubin,Sarah Kellen,co-mentioned,1
+Glenn Dubin,Denise George,co-mentioned,1
+Glenn Dubin,Little St. James Island,co-mentioned,1
+David Copperfield,MC2 Model Management,co-mentioned,1
+David Copperfield,Robert Giuffre,co-mentioned,1
+David Copperfield,Ghislaine Maxwell,co-mentioned,1
+David Copperfield,Adriana Ross,co-mentioned,1
+David Copperfield,Mar-a-Lago,co-mentioned,1
+David Copperfield,Sarah Kellen,co-mentioned,1
+David Copperfield,Denise George,co-mentioned,1
+David Copperfield,Little St. James Island,co-mentioned,1
+Jean-Luc Brunel,Robert Giuffre,co-mentioned,1
+Jean-Luc Brunel,Adriana Ross,co-mentioned,1
+Jean-Luc Brunel,Mar-a-Lago,co-mentioned,1
+Jean-Luc Brunel,Denise George,co-mentioned,1
+Jean-Luc Brunel,Little St. James Island,co-mentioned,1
+MC2 Model Management,George Mitchell,co-mentioned,1
+MC2 Model Management,Robert Giuffre,co-mentioned,1
+MC2 Model Management,Adriana Ross,co-mentioned,1
+MC2 Model Management,Mar-a-Lago,co-mentioned,1
+MC2 Model Management,Bill Richardson,co-mentioned,1
+MC2 Model Management,Prince Andrew,co-mentioned,1
+MC2 Model Management,Sarah Kellen,co-mentioned,1
+MC2 Model Management,Denise George,co-mentioned,1
+MC2 Model Management,Little St. James Island,co-mentioned,1
+George Mitchell,Robert Giuffre,co-mentioned,1
+George Mitchell,Adriana Ross,co-mentioned,1
+George Mitchell,Mar-a-Lago,co-mentioned,1
+George Mitchell,Sarah Kellen,co-mentioned,1
+George Mitchell,Little St. James Island,co-mentioned,1
+Robert Giuffre,Adriana Ross,co-mentioned,1
+Robert Giuffre,Bill Richardson,co-mentioned,1
+Robert Giuffre,Prince Andrew,co-mentioned,1
+Robert Giuffre,Sarah Kellen,co-mentioned,1
+Robert Giuffre,Denise George,co-mentioned,1
+Robert Giuffre,Little St. James Island,co-mentioned,1
+Ghislaine Maxwell,Adriana Ross,co-mentioned,1
+Ghislaine Maxwell,Little St. James Island,co-mentioned,1
+Adriana Ross,Mar-a-Lago,co-mentioned,1
+Adriana Ross,Bill Richardson,co-mentioned,1
+Adriana Ross,Prince Andrew,co-mentioned,1
+Adriana Ross,Denise George,co-mentioned,1
+Adriana Ross,Little St. James Island,co-mentioned,1
+Mar-a-Lago,Bill Richardson,co-mentioned,1
+Mar-a-Lago,Prince Andrew,co-mentioned,1
+Mar-a-Lago,Sarah Kellen,co-mentioned,1
+Mar-a-Lago,Denise George,co-mentioned,1
+Mar-a-Lago,Little St. James Island,co-mentioned,1
+Bill Richardson,Sarah Kellen,co-mentioned,1
+Bill Richardson,Little St. James Island,co-mentioned,1
+Prince Andrew,Sarah Kellen,co-mentioned,1
+Prince Andrew,Denise George,co-mentioned,1
+Prince Andrew,Little St. James Island,co-mentioned,1
+Sarah Kellen,Denise George,co-mentioned,1
+Sarah Kellen,Little St. James Island,co-mentioned,1
+Ehud Barak,Leslie Wexner,co-mentioned,1
+Ehud Barak,Noam Chomsky,co-mentioned,1
+Ehud Barak,Peter Mandelson,co-mentioned,1
+Ehud Barak,Tom Barrack,co-mentioned,1
+Ehud Barak,Stephen Hawking,co-mentioned,1
+Ehud Barak,Naomi Campbell,co-mentioned,1
+Ehud Barak,Demi Moore,co-mentioned,1
+Ehud Barak,Henry Kissinger,co-mentioned,1
+Ehud Barak,Tony Blair,co-mentioned,1
+Ehud Barak,Sergey Brin,co-mentioned,1
+Ehud Barak,Woody Allen,co-mentioned,1
+Ehud Barak,Itzhak Perlman,co-mentioned,1
+Ehud Barak,Rupert Murdoch,co-mentioned,1
+Ehud Barak,Michael Jackson,co-mentioned,1
+Leslie Wexner,Alan Dershowitz,co-mentioned,1
+Leslie Wexner,Jean-Luc Brunel,co-mentioned,1
+Leslie Wexner,Bill Richardson,co-mentioned,1
+Alan Dershowitz,Noam Chomsky,co-mentioned,1
+Alan Dershowitz,Peter Mandelson,co-mentioned,1
+Alan Dershowitz,Tom Barrack,co-mentioned,1
+Alan Dershowitz,Stephen Hawking,co-mentioned,1
+Alan Dershowitz,Naomi Campbell,co-mentioned,1
+Alan Dershowitz,Demi Moore,co-mentioned,1
+Alan Dershowitz,Henry Kissinger,co-mentioned,1
+Alan Dershowitz,Tony Blair,co-mentioned,1
+Alan Dershowitz,Sergey Brin,co-mentioned,1
+Alan Dershowitz,Woody Allen,co-mentioned,1
+Alan Dershowitz,Itzhak Perlman,co-mentioned,1
+Alan Dershowitz,Rupert Murdoch,co-mentioned,1
+Alan Dershowitz,Michael Jackson,co-mentioned,1
+Noam Chomsky,Jean-Luc Brunel,co-mentioned,1
+Noam Chomsky,George Mitchell,co-mentioned,1
+Noam Chomsky,Bill Richardson,co-mentioned,1
+Peter Mandelson,Jean-Luc Brunel,co-mentioned,1
+Peter Mandelson,George Mitchell,co-mentioned,1
+Peter Mandelson,Bill Richardson,co-mentioned,1
+Tom Barrack,Jean-Luc Brunel,co-mentioned,1
+Tom Barrack,George Mitchell,co-mentioned,1
+Tom Barrack,Bill Richardson,co-mentioned,1
+Stephen Hawking,Jean-Luc Brunel,co-mentioned,1
+Stephen Hawking,George Mitchell,co-mentioned,1
+Stephen Hawking,Bill Richardson,co-mentioned,1
+Naomi Campbell,George Mitchell,co-mentioned,1
+Naomi Campbell,Bill Richardson,co-mentioned,1
+Demi Moore,Jean-Luc Brunel,co-mentioned,1
+Demi Moore,George Mitchell,co-mentioned,1
+Demi Moore,Bill Richardson,co-mentioned,1
+Manhattan Townhouse,Reid Hoffman,co-mentioned,1
+Teterboro Airport,Southern District of New York (SDNY),co-mentioned,1
+Teterboro Airport,Miami Herald,co-mentioned,1
+Teterboro Airport,Julie K. Brown,co-mentioned,1
+Teterboro Airport,Federal Bureau of Investigation,co-mentioned,1
+Southern District of New York (SDNY),Miami Herald,co-mentioned,1
+Southern District of New York (SDNY),Julie K. Brown,co-mentioned,1
+Miami Herald,Federal Bureau of Investigation,co-mentioned,1
+Julie K. Brown,Federal Bureau of Investigation,co-mentioned,1
+JPMorgan Chase,Barclays,co-mentioned,1
+Nadia Marcinkova,Haley Robson,co-mentioned,1
+Nadia Marcinkova,Palm Beach Mansion,co-mentioned,1
+Nadia Marcinkova,Joseph Recarey,co-mentioned,1
+Nadia Marcinkova,Palm Beach Police Department,co-mentioned,1
+Nadia Marcinkova,Federal Bureau of Investigation,co-mentioned,1
+Nadia Marcinkova,Michael Reiter,co-mentioned,1
+Haley Robson,Palm Beach Mansion,co-mentioned,1
+Haley Robson,Lesley Groff,co-mentioned,1
+Haley Robson,Sarah Kellen,co-mentioned,1
+Haley Robson,Federal Bureau of Investigation,co-mentioned,1
+Palm Beach Mansion,Lesley Groff,co-mentioned,1
+Palm Beach Mansion,Sarah Kellen,co-mentioned,1
+Palm Beach Mansion,Federal Bureau of Investigation,co-mentioned,1
+Joseph Recarey,Lesley Groff,co-mentioned,1
+Joseph Recarey,Sarah Kellen,co-mentioned,1
+Joseph Recarey,Federal Bureau of Investigation,co-mentioned,1
+Lesley Groff,Palm Beach Police Department,co-mentioned,1
+Lesley Groff,Michael Reiter,co-mentioned,1
+Palm Beach Police Department,Sarah Kellen,co-mentioned,1
+Palm Beach Police Department,Federal Bureau of Investigation,co-mentioned,1
+Sarah Kellen,Michael Reiter,co-mentioned,1
+Federal Bureau of Investigation,Michael Reiter,co-mentioned,1
+Donald Trump,Palm Beach Mansion,co-mentioned,1
+Donald Trump,Juan Alessi,co-mentioned,1
+Virginia Giuffre,Palm Beach Mansion,co-mentioned,1
+Virginia Giuffre,Juan Alessi,co-mentioned,1
+Palm Beach Mansion,Juan Alessi,co-mentioned,1
+Palm Beach Mansion,Prince Andrew,co-mentioned,1
+Juan Alessi,Prince Andrew,co-mentioned,1
+Virginia Giuffre,Robert Maxwell,co-mentioned,1
+Maurene Comey,Bobbi Sternheim,co-mentioned,1
+Maurene Comey,Laura Menninger,co-mentioned,1
+Maurene Comey,Robert Maxwell,co-mentioned,1
+Bobbi Sternheim,Robert Maxwell,co-mentioned,1
+Bobbi Sternheim,Alison Moe,co-mentioned,1
+Henry Kissinger,Jean-Luc Brunel,co-mentioned,1
+Henry Kissinger,George Mitchell,co-mentioned,1
+Henry Kissinger,Bill Richardson,co-mentioned,1
+Tony Blair,Jean-Luc Brunel,co-mentioned,1
+Tony Blair,George Mitchell,co-mentioned,1
+Tony Blair,Bill Richardson,co-mentioned,1
+Jean-Luc Brunel,Sergey Brin,co-mentioned,1
+Jean-Luc Brunel,Woody Allen,co-mentioned,1
+Jean-Luc Brunel,Itzhak Perlman,co-mentioned,1
+Jean-Luc Brunel,Rupert Murdoch,co-mentioned,1
+Jean-Luc Brunel,Michael Jackson,co-mentioned,1
+Sergey Brin,George Mitchell,co-mentioned,1
+Sergey Brin,Bill Richardson,co-mentioned,1
+Woody Allen,George Mitchell,co-mentioned,1
+Julie K. Brown,Sergey Brin,co-mentioned,1
+Lawrence Krauss,Sergey Brin,co-mentioned,1
+Sergey Brin,Geoffrey Berman,co-mentioned,1
+Sergey Brin,Robert Maxwell,co-mentioned,1
+Sergey Brin,Ghislaine Maxwell,co-mentioned,1
+Sergey Brin,Paul Cassell,co-mentioned,1
+Laura Menninger,Paul Cassell,co-mentioned,1
+Woody Allen,Bill Richardson,co-mentioned,1
+George Mitchell,Itzhak Perlman,co-mentioned,1
+George Mitchell,Rupert Murdoch,co-mentioned,1
+George Mitchell,Michael Jackson,co-mentioned,1
+Itzhak Perlman,Bill Richardson,co-mentioned,1
+Rupert Murdoch,Bill Richardson,co-mentioned,1
+Bill Richardson,Michael Jackson,co-mentioned,1
+David Boies,Prince Andrew,co-mentioned,1
+Jeffrey Epstein,Pam Bondi,co-mentioned,1
+Pam Bondi,Alexander Acosta,co-mentioned,1
+Pam Bondi,Miami Herald,co-mentioned,1
+Pam Bondi,Julie K. Brown,co-mentioned,1
+Alexander Acosta,Miami Herald,co-mentioned,1
+Harvard University,Lawrence Krauss,co-mentioned,1
+Annie Farmer,Virginia Giuffre,co-mentioned,1
+Annie Farmer,Alison Nathan,co-mentioned,1
+Zorro Ranch,Carolyn (Trial Witness),co-mentioned,1
+Zorro Ranch,Alison Nathan,co-mentioned,1
+Zorro Ranch,Jane (Trial Witness),co-mentioned,1
+Virginia Giuffre,Carolyn (Trial Witness),co-mentioned,1
+Virginia Giuffre,Alison Nathan,co-mentioned,1
+Jeffrey Epstein,Jane (Trial Witness),co-mentioned,1
+Carolyn (Trial Witness),Alison Nathan,co-mentioned,1
+Alison Nathan,Jane (Trial Witness),co-mentioned,1
+Annie Farmer,Southern District of New York (SDNY),co-mentioned,1
+Annie Farmer,Kate (Trial Witness),co-mentioned,1
+Annie Farmer,Robert Maxwell,co-mentioned,1
+Annie Farmer,Federal Bureau of Investigation,co-mentioned,1
+Carolyn (Trial Witness),Southern District of New York (SDNY),co-mentioned,1
+Carolyn (Trial Witness),Kate (Trial Witness),co-mentioned,1
+Carolyn (Trial Witness),Robert Maxwell,co-mentioned,1
+Carolyn (Trial Witness),Federal Bureau of Investigation,co-mentioned,1
+Southern District of New York (SDNY),Kate (Trial Witness),co-mentioned,1
+Southern District of New York (SDNY),Jane (Trial Witness),co-mentioned,1
+Southern District of New York (SDNY),Robert Maxwell,co-mentioned,1
+Kate (Trial Witness),Jane (Trial Witness),co-mentioned,1
+Kate (Trial Witness),Robert Maxwell,co-mentioned,1
+Kate (Trial Witness),Federal Bureau of Investigation,co-mentioned,1
+Jane (Trial Witness),Robert Maxwell,co-mentioned,1
+Jane (Trial Witness),Federal Bureau of Investigation,co-mentioned,1
+Robert Maxwell,Federal Bureau of Investigation,co-mentioned,1
+Zorro Ranch,Great St. James Island,co-mentioned,1
+Zorro Ranch,Leslie Wexner,co-mentioned,1
+Zorro Ranch,Victoria's Secret,co-mentioned,1
+Zorro Ranch,Bill Gates,co-mentioned,1
+Zorro Ranch,Manhattan Townhouse,co-mentioned,1
+Zorro Ranch,Harvard University,co-mentioned,1
+Zorro Ranch,Steve Bannon,co-mentioned,1
+Zorro Ranch,L Brands,co-mentioned,1
+Zorro Ranch,Leon Black,co-mentioned,1
+Zorro Ranch,MIT Media Lab,co-mentioned,1
+Great St. James Island,Leslie Wexner,co-mentioned,1
+Great St. James Island,Victoria's Secret,co-mentioned,1
+Great St. James Island,Bill Gates,co-mentioned,1
+Great St. James Island,Manhattan Townhouse,co-mentioned,1
+Great St. James Island,Harvard University,co-mentioned,1
+Great St. James Island,Steve Bannon,co-mentioned,1
+Great St. James Island,L Brands,co-mentioned,1
+Great St. James Island,Leon Black,co-mentioned,1
+Great St. James Island,MIT Media Lab,co-mentioned,1
+Leslie Wexner,Bill Gates,co-mentioned,1
+Leslie Wexner,Harvard University,co-mentioned,1
+Leslie Wexner,Steve Bannon,co-mentioned,1
+Leslie Wexner,Leon Black,co-mentioned,1
+Leslie Wexner,Little St. James Island,co-mentioned,1
+Leslie Wexner,MIT Media Lab,co-mentioned,1
+Victoria's Secret,Bill Gates,co-mentioned,1
+Victoria's Secret,Harvard University,co-mentioned,1
+Victoria's Secret,Steve Bannon,co-mentioned,1
+Victoria's Secret,Leon Black,co-mentioned,1
+Victoria's Secret,Little St. James Island,co-mentioned,1
+Victoria's Secret,MIT Media Lab,co-mentioned,1
+Bill Gates,Harvard University,co-mentioned,1
+Bill Gates,Steve Bannon,co-mentioned,1
+Bill Gates,L Brands,co-mentioned,1
+Bill Gates,Leon Black,co-mentioned,1
+Bill Gates,Little St. James Island,co-mentioned,1
+Bill Gates,MIT Media Lab,co-mentioned,1
+Manhattan Townhouse,Harvard University,co-mentioned,1
+Manhattan Townhouse,Steve Bannon,co-mentioned,1
+Manhattan Townhouse,Leon Black,co-mentioned,1
+Manhattan Townhouse,Little St. James Island,co-mentioned,1
+Manhattan Townhouse,MIT Media Lab,co-mentioned,1
+Harvard University,Steve Bannon,co-mentioned,1
+Harvard University,L Brands,co-mentioned,1
+Harvard University,Leon Black,co-mentioned,1
+Harvard University,Little St. James Island,co-mentioned,1
+Harvard University,MIT Media Lab,co-mentioned,1
+Steve Bannon,L Brands,co-mentioned,1
+Steve Bannon,Leon Black,co-mentioned,1
+Steve Bannon,Little St. James Island,co-mentioned,1
+Steve Bannon,MIT Media Lab,co-mentioned,1
+L Brands,Leon Black,co-mentioned,1
+L Brands,Little St. James Island,co-mentioned,1
+L Brands,MIT Media Lab,co-mentioned,1
+Leon Black,Little St. James Island,co-mentioned,1
+Leon Black,MIT Media Lab,co-mentioned,1
+Little St. James Island,MIT Media Lab,co-mentioned,1
+Virginia Giuffre,Alexander Acosta,co-mentioned,1
+Teterboro Airport,Bill Clinton,co-mentioned,1
+Teterboro Airport,Larry Visoski,co-mentioned,1
+Teterboro Airport,Naomi Campbell,co-mentioned,1
+Teterboro Airport,Chris Tucker,co-mentioned,1
+Teterboro Airport,David Rodgers,co-mentioned,1
+Teterboro Airport,Jean-Luc Brunel,co-mentioned,1
+Teterboro Airport,Ghislaine Maxwell,co-mentioned,1
+Teterboro Airport,"St. Thomas, USVI",co-mentioned,1
+Teterboro Airport,Prince Andrew,co-mentioned,1
+Teterboro Airport,Kevin Spacey,co-mentioned,1
+Bill Clinton,Larry Visoski,co-mentioned,1
+Larry Visoski,Naomi Campbell,co-mentioned,1
+Larry Visoski,Chris Tucker,co-mentioned,1
+Larry Visoski,Jean-Luc Brunel,co-mentioned,1
+Larry Visoski,"St. Thomas, USVI",co-mentioned,1
+Larry Visoski,Prince Andrew,co-mentioned,1
+Larry Visoski,Kevin Spacey,co-mentioned,1
+Naomi Campbell,Chris Tucker,co-mentioned,1
+Naomi Campbell,David Rodgers,co-mentioned,1
+Naomi Campbell,"St. Thomas, USVI",co-mentioned,1
+Naomi Campbell,Kevin Spacey,co-mentioned,1
+Chris Tucker,Jean-Luc Brunel,co-mentioned,1
+Chris Tucker,"St. Thomas, USVI",co-mentioned,1
+David Rodgers,Jean-Luc Brunel,co-mentioned,1
+David Rodgers,"St. Thomas, USVI",co-mentioned,1
+David Rodgers,Prince Andrew,co-mentioned,1
+Jean-Luc Brunel,"St. Thomas, USVI",co-mentioned,1
+Jean-Luc Brunel,Kevin Spacey,co-mentioned,1
+Ghislaine Maxwell,"St. Thomas, USVI",co-mentioned,1
+"St. Thomas, USVI",Prince Andrew,co-mentioned,1
+"St. Thomas, USVI",Kevin Spacey,co-mentioned,1
+David Boies,Robert Giuffre,co-mentioned,1
+David Boies,Mar-a-Lago,co-mentioned,1
+Courtney Wild,Alexander Acosta,co-mentioned,1
+Courtney Wild,Haley Robson,co-mentioned,1
+Courtney Wild,Juan Alessi,co-mentioned,1
+Courtney Wild,Joseph Recarey,co-mentioned,1
+Courtney Wild,Palm Beach Police Department,co-mentioned,1
+Courtney Wild,Michael Reiter,co-mentioned,1
+Haley Robson,Juan Alessi,co-mentioned,1
+Juan Alessi,Joseph Recarey,co-mentioned,1
+Juan Alessi,Palm Beach Police Department,co-mentioned,1
+Juan Alessi,Michael Reiter,co-mentioned,1
+Michael Baden,Metropolitan Correctional Center,co-mentioned,1
+Ehud Barak,Manhattan Townhouse,co-mentioned,1
+Courtney Wild,Jeffrey Epstein,co-mentioned,1
+Donald Trump,Brad Edwards,co-mentioned,1
+Virginia Giuffre,Brad Edwards,co-mentioned,1
+Mar-a-Lago,Brad Edwards,co-mentioned,1
+Bill Gates,Reid Hoffman,co-mentioned,1
+Jeffrey Epstein,Reid Hoffman,co-mentioned,1
+Laura Menninger,Robert Maxwell,co-mentioned,1
+Robert Maxwell,Alison Moe,co-mentioned,1
+Bill Clinton,Great St. James Island,co-mentioned,1
+Bill Clinton,USVI Attorney General,co-mentioned,1
+Great St. James Island,Marvin Minsky,co-mentioned,1
+Marvin Minsky,"St. Thomas, USVI",co-mentioned,1
+Marvin Minsky,USVI Attorney General,co-mentioned,1
+Nadia Marcinkova,Alexander Acosta,co-mentioned,1
+Alan Dershowitz,Lesley Groff,co-mentioned,1
+Lesley Groff,Adriana Ross,co-mentioned,1
+Alexander Acosta,Adriana Ross,co-mentioned,1
+Alexander Acosta,Sarah Kellen,co-mentioned,1
+Lesley Groff,Ghislaine Maxwell,co-mentioned,1
+Richard Berman,David Boies,co-mentioned,1
+Richard Berman,Sigrid McCawley,co-mentioned,1
+Alan Dershowitz,Paul Cassell,co-mentioned,1
+Alan Dershowitz,Brad Edwards,co-mentioned,1
+Harvey Weinstein,Leon Black,co-mentioned,1
+Alan Dershowitz,Robert Maxwell,co-mentioned,1
+Bill Clinton,Steve Bannon,co-mentioned,1
+Alexander Acosta,Jean-Luc Brunel,co-mentioned,1
+David Boies,Julie K. Brown,co-mentioned,1
+Julie K. Brown,Brad Edwards,co-mentioned,1
+Leslie Wexner,Juan Alessi,co-mentioned,1
+Bill Clinton,Leon Black,co-mentioned,1
+Ghislaine Maxwell,Leon Black,co-mentioned,1
+Bill Clinton,Lesley Groff,co-mentioned,1
+Leslie Wexner,Lesley Groff,co-mentioned,1
+Leslie Wexner,Alexander Acosta,co-mentioned,1
+Chris Tucker,Lesley Groff,co-mentioned,1
+Chris Tucker,Alexander Acosta,co-mentioned,1
+Harvey Weinstein,Alexander Acosta,co-mentioned,1
+Harvey Weinstein,David Boies,co-mentioned,1
+Harvey Weinstein,Kevin Spacey,co-mentioned,1
+Bill Clinton,David Boies,co-mentioned,1
+Alexander Acosta,David Boies,co-mentioned,1
+Alexander Acosta,Kevin Spacey,co-mentioned,1
+David Boies,Kevin Spacey,co-mentioned,1
+Alan Dershowitz,Julie K. Brown,co-mentioned,1
+Larry Visoski,Juan Alessi,co-mentioned,1
+Alan Dershowitz,Steve Bannon,co-mentioned,1
+Donald Trump,Damian Williams,co-mentioned,1
+George Mitchell,Leon Black,co-mentioned,1
+Bill Clinton,Sigrid McCawley,co-mentioned,1
+Alan Dershowitz,Laura Menninger,co-mentioned,1
+Donald Trump,Chris Tucker,co-mentioned,1
+Leslie Wexner,Robert Maxwell,co-mentioned,1
+Leslie Wexner,Kevin Spacey,co-mentioned,1
+Chris Tucker,George Mitchell,co-mentioned,1
+Chris Tucker,Robert Maxwell,co-mentioned,1
+George Mitchell,Robert Maxwell,co-mentioned,1

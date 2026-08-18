@@ -1,0 +1,56 @@
+flight_date,aircraft_tail_number,pilot_name,departure_airport_code,departure_airport,arrival_airport_code,arrival_airport,passenger_names
+2019-06-30,N986JE,Larry Visoski,CDG,"Charles de Gaulle Airport, Paris",TEB,Teterboro Airport,Jeffrey Epstein
+2018-11-30,N986JE,Larry Visoski,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein
+2015-06-08,N986JE,Larry Visoski,TEB,Teterboro Airport,CDG,"Charles de Gaulle Airport, Paris",Jeffrey Epstein; Lesley Groff
+2013-03-20,N986JE,Larry Visoski,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Bill Gates
+2012-04-10,N986JE,Larry Visoski,STT,"Cyril E. King Airport, St. Thomas",CDG,"Charles de Gaulle Airport, Paris",Jeffrey Epstein; Jean-Luc Brunel
+2011-09-20,N986JE,Larry Visoski,TEB,Teterboro Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Lesley Groff
+2010-05-15,N986JE,Larry Visoski,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Lesley Groff
+2006-08-20,N986JE,Larry Visoski,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Sarah Kellen
+2006-03-15,N986JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Alan Dershowitz; Lesley Groff
+2005-07-10,N986JE,Larry Visoski,PBI,Palm Beach International Airport,TEB,Teterboro Airport,Jeffrey Epstein; Lesley Groff
+2005-06-10,N986JE,David Rodgers,PBI,Palm Beach International Airport,CMH,John Glenn Columbus International Airport,Jeffrey Epstein; Ghislaine Maxwell
+2005-04-25,N908JE,Larry Visoski,CDG,"Charles de Gaulle Airport, Paris",TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Jean-Luc Brunel; Sarah Kellen
+2005-04-20,N908JE,Larry Visoski,TEB,Teterboro Airport,CDG,"Charles de Gaulle Airport, Paris",Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen; Nadia Marcinkova
+2005-03-10,N986JE,David Rodgers,STT,"Cyril E. King Airport, St. Thomas",PBI,Palm Beach International Airport,Jeffrey Epstein; Sarah Kellen; Nadia Marcinkova
+2005-01-15,N986JE,Larry Visoski,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen
+2004-11-22,N908JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen; Lesley Groff
+2004-09-30,N908JE,Larry Visoski,PBI,Palm Beach International Airport,CDG,"Charles de Gaulle Airport, Paris",Jeffrey Epstein; Jean-Luc Brunel; Sarah Kellen; Nadia Marcinkova
+2004-07-20,N908JE,David Rodgers,STT,"Cyril E. King Airport, St. Thomas",TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Nadia Marcinkova; Adriana Ross
+2004-05-12,N986JE,Larry Visoski,TEB,Teterboro Airport,ABQ,Albuquerque International Sunport,Jeffrey Epstein; Ghislaine Maxwell; Annie Farmer
+2004-03-15,N986JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Jean-Luc Brunel; Nadia Marcinkova
+2004-02-18,N986JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen; Adriana Ross
+2004-01-10,N986JE,Larry Visoski,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Lesley Groff
+2003-11-10,N908JE,Larry Visoski,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Naomi Campbell; Sarah Kellen
+2003-09-15,N908JE,David Rodgers,STT,"Cyril E. King Airport, St. Thomas",PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Jean-Luc Brunel; Sarah Kellen
+2003-08-22,N908JE,David Rodgers,STT,"Cyril E. King Airport, St. Thomas",TEB,Teterboro Airport,Jeffrey Epstein; Glenn Dubin; Eva Dubin; Ghislaine Maxwell
+2003-06-18,N908JE,Larry Visoski,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Bill Clinton; Doug Band; Secret Service
+2003-05-22,N908JE,Larry Visoski,PBI,Palm Beach International Airport,TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Lesley Groff
+2003-04-12,N908JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Naomi Campbell; Jean-Luc Brunel
+2003-03-05,N908JE,Larry Visoski,PBI,Palm Beach International Airport,ABQ,Albuquerque International Sunport,Jeffrey Epstein; Ghislaine Maxwell; Bill Richardson
+2003-02-15,N908JE,David Rodgers,TEB,Teterboro Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Virginia Roberts; Sarah Kellen; Nadia Marcinkova
+2003-01-22,N908JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Alan Dershowitz; Sarah Kellen
+2002-09-29,N908JE,Larry Visoski,DAR,"Julius Nyerere International Airport, Dar es Salaam",JFK,John F. Kennedy International Airport,Bill Clinton; Kevin Spacey; Chris Tucker; Ghislaine Maxwell
+2002-09-27,N908JE,Larry Visoski,CPT,Cape Town International Airport,DAR,"Julius Nyerere International Airport, Dar es Salaam",Bill Clinton; Kevin Spacey; Chris Tucker; Ghislaine Maxwell
+2002-09-25,N908JE,Larry Visoski,LOS,"Murtala Muhammed International Airport, Lagos",CPT,Cape Town International Airport,Bill Clinton; Kevin Spacey; Chris Tucker; Ghislaine Maxwell
+2002-09-23,N908JE,Larry Visoski,ACC,"Kotoka International Airport, Accra",LOS,"Murtala Muhammed International Airport, Lagos",Bill Clinton; Kevin Spacey; Chris Tucker; Ghislaine Maxwell
+2002-09-21,N908JE,Larry Visoski,JFK,John F. Kennedy International Airport,ACC,"Kotoka International Airport, Accra",Bill Clinton; Kevin Spacey; Chris Tucker; Ghislaine Maxwell; Doug Band; Secret Service
+2002-08-05,N908JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Glenn Dubin; Eva Dubin; Ghislaine Maxwell; Sarah Kellen
+2002-07-20,N908JE,David Rodgers,STT,"Cyril E. King Airport, St. Thomas",TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Jean-Luc Brunel; Sarah Kellen
+2002-06-10,N908JE,Larry Visoski,CDG,"Charles de Gaulle Airport, Paris",TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Jean-Luc Brunel; Nadia Marcinkova
+2002-05-15,N908JE,Larry Visoski,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Prince Andrew; Virginia Roberts
+2002-04-20,N908JE,Larry Visoski,TEB,Teterboro Airport,LHR,London Heathrow Airport,Jeffrey Epstein; Ghislaine Maxwell; Virginia Roberts; Jean-Luc Brunel
+2002-03-12,N908JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen; Nadia Marcinkova
+2002-02-09,N908JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen; Emmy Tayler
+2002-01-15,N908JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Virginia Roberts; Ghislaine Maxwell; Nadia Marcinkova
+2001-11-12,N908JE,Larry Visoski,TEB,Teterboro Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Virginia Roberts; Emmy Tayler; Sarah Kellen
+2001-09-03,N908JE,David Rodgers,PBI,Palm Beach International Airport,CMH,John Glenn Columbus International Airport,Jeffrey Epstein; Ghislaine Maxwell
+2001-06-20,N908JE,Larry Visoski,STT,"Cyril E. King Airport, St. Thomas",TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Virginia Roberts; Sarah Kellen
+2001-04-08,N908JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Alan Dershowitz; Sarah Kellen; Nadia Marcinkova
+2001-01-15,N908JE,David Rodgers,PBI,Palm Beach International Airport,ABQ,Albuquerque International Sunport,Jeffrey Epstein; Ghislaine Maxwell; Lesley Groff
+2000-08-22,N908JE,Larry Visoski,TEB,Teterboro Airport,CDG,"Charles de Gaulle Airport, Paris",Jeffrey Epstein; Ghislaine Maxwell; Jean-Luc Brunel
+2000-03-10,N908JE,David Rodgers,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Jean-Luc Brunel; Nadia Marcinkova; Sarah Kellen; Ghislaine Maxwell
+1999-07-19,N908JE,Larry Visoski,LHR,London Heathrow Airport,TEB,Teterboro Airport,Jeffrey Epstein; Ghislaine Maxwell; Prince Andrew; Sarah Kellen
+1999-07-15,N908JE,Larry Visoski,TEB,Teterboro Airport,LHR,London Heathrow Airport,Jeffrey Epstein; Ghislaine Maxwell; Sarah Kellen
+1999-02-20,N908JE,Larry Visoski,PBI,Palm Beach International Airport,STT,"Cyril E. King Airport, St. Thomas",Jeffrey Epstein; Ghislaine Maxwell; Alan Dershowitz; Eva Dubin; Glenn Dubin
+1998-06-12,N908JE,David Rodgers,TEB,Teterboro Airport,PBI,Palm Beach International Airport,Jeffrey Epstein; Ghislaine Maxwell; Leslie Wexner; Lesley Groff

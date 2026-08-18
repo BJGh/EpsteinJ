@@ -1,0 +1,97 @@
+name,entity_type,slug,role_description,document_count,flight_count,email_count
+Jeffrey Epstein,person,jeffrey-epstein,Principal subject,1540,14,8
+Ghislaine Maxwell,person,ghislaine-maxwell,"Co-conspirator, recruiter, and groomer",1283,16,7
+Laura Menninger,person,laura-menninger,Maxwell defense attorney,280,0,0
+Leon Black,person,leon-black,Financial client,84,0,0
+Prince Andrew,person,prince-andrew,Named in court documents and civil lawsuit,84,1,0
+Sigrid McCawley,person,sigrid-mccawley,Giuffre's attorney,83,0,0
+Bobbi Sternheim,person,bobbi-sternheim,Maxwell defense attorney,69,0,0
+Brad Edwards,person,brad-edwards,Victims' attorney,68,0,0
+Donald Trump,person,donald-trump,Listed in contact book; mentioned in depositions,66,0,0
+Damian Williams,person,damian-williams,Lead prosecutor (SDNY),57,0,0
+Alexander Acosta,person,alexander-acosta,Former U.S. Attorney who negotiated NPA,48,0,1
+David Boies,person,david-boies,Attorney for Giuffre,31,0,0
+Geoffrey Berman,person,jeffrey-berman,U.S. Attorney who indicted Epstein,28,0,0
+Alan Dershowitz,person,alan-dershowitz,Epstein defense attorney; named in documents,24,1,0
+Bill Clinton,person,bill-clinton,Documented in flight logs,24,6,0
+Larry Visoski,person,larry-visoski,Personal pilot,23,0,0
+Harvey Weinstein,person,harvey-weinstein,Listed in contact book,17,0,0
+David Rodgers,person,david-rodgers,Pilot and flight log keeper,16,0,0
+Jes Staley,person,jes-staley,Banking associate,16,0,1
+Paul Cassell,person,paul-cassell,Victims' rights attorney,14,0,0
+Alison Moe,person,alison-moe,Lead prosecutor,12,0,0
+Bill Richardson,person,bill-richardson,Named in court documents,12,1,0
+Julie K. Brown,person,julie-k-brown,Investigative journalist,11,0,0
+Denise George,person,denise-george,USVI Attorney General,10,0,0
+Steve Bannon,person,steve-bannon,Met with Epstein in 2018,8,0,0
+Alison Nathan,person,alison-nathan,Presiding judge,7,0,0
+Robert Maxwell,person,robert-maxwell,Father of Ghislaine Maxwell,5,0,0
+Leslie Wexner,person,leslie-wexner,Financial associate,5,0,0
+Jean-Luc Brunel,person,jean-luc-brunel,Modeling agent and alleged procurer,5,4,1
+Maurene Comey,person,maurene-comey,Prosecutor,5,0,0
+Juan Alessi,person,juan-alessi,Former house manager,4,0,0
+Richard Berman,person,richard-berman,Presiding judge,4,0,0
+Eva Dubin,person,eva-dubin,Social associate,3,1,0
+Lesley Groff,person,lesley-groff,Executive assistant,3,0,1
+Bill Gates,person,bill-gates,Met with Epstein post-conviction,3,1,0
+George Mitchell,person,george-mitchell,Named in court documents,3,0,0
+Michael Baden,person,michael-baden,Forensic pathologist who disputed suicide ruling,3,0,0
+Kevin Spacey,person,kevin-spacey,Photographed on Epstein aircraft,2,5,0
+Chris Tucker,person,chris-tucker,Documented in flight logs,2,5,0
+Lawrence Krauss,person,lawrence-krauss,Received Epstein funding,2,0,0
+David Copperfield,person,david-copperfield,Named in depositions; listed in contact book,2,0,0
+Sergey Brin,person,sergey-brin,Listed in contact book,2,0,0
+Palm Beach Police Department,organization,palm-beach-police,Initial investigating agency,1,0,0
+Michael Jackson,person,michael-jackson,Listed in contact book,1,0,0
+Little St. James Island,location,little-st-james-island,Private island,1,0,0
+Peter Mandelson,person,peter-mandelson,Named in documents; listed in contact book,1,0,0
+Marvin Minsky,person,marvin-minsky,Named in court filings,1,0,0
+Woody Allen,person,woody-allen,Social associate,1,0,0
+John Mark Dougan,person,john-mark-dougan,Former law enforcement,0,0,0
+Nadia Marcinkova,person,nadia-marcinkova,Named co-conspirator,0,3,0
+Haley Robson,person,haley-robson,Victim turned recruiter,0,0,0
+Sarah Kellen,person,sarah-kellen,Personal assistant and alleged scheduler,0,5,2
+Virginia Giuffre,person,virginia-giuffre,Victim and key accuser,0,1,0
+Noam Chomsky,person,noam-chomsky,Acknowledged meetings with Epstein,0,0,0
+Courtney Wild,person,courtney-wild,Victim and CVRA plaintiff,0,0,0
+USVI Attorney General,organization,us-virgin-islands-ag,Enforcement action,0,0,0
+Annie Farmer,person,annie-farmer,Victim and trial witness,0,0,0
+Pam Bondi,person,pam-bondi,Attorney General (2025),0,0,0
+Carolyn (Trial Witness),person,carolyn-victim,Victim and trial witness,0,0,0
+Zorro Ranch,location,zorro-ranch,New Mexico ranch,0,0,0
+Palm Beach Mansion,location,palm-beach-mansion,Primary abuse location,0,0,0
+Southern District of New York (SDNY),organization,southern-district-of-new-york,Prosecuting office,0,0,0
+Kate (Trial Witness),person,kate-victim,Victim and trial witness,0,0,0
+Great St. James Island,location,great-st-james-island,Second private island,0,0,0
+Joseph Recarey,person,joseph-recarey,Lead detective,0,0,0
+Ehud Barak,person,ehud-barak,Named in court documents; visited Epstein properties,0,0,0
+Henry Kissinger,person,henry-kissinger,Listed in contact book,0,0,0
+L Brands,organization,l-brands,Corporate entity linked through Wexner,0,0,0
+Deutsche Bank,organization,deutsche-bank,Epstein's bank after JPMorgan,0,0,0
+Tony Blair,person,tony-blair,Listed in contact book,0,0,0
+Tom Barrack,person,tom-barrack,Listed in contact book,0,0,0
+Demi Moore,person,demi-moore,Listed in contact book,0,0,0
+Teterboro Airport,location,teterboro-airport,Arrest location,0,0,0
+Harvard University,organization,harvard-university,Received Epstein donations,0,0,0
+Jane (Trial Witness),person,jane-victim,Victim and trial witness,0,0,0
+Itzhak Perlman,person,itzhak-perlman,Listed in contact book,0,0,0
+Robert Giuffre,person,robert-giuffre,Father of key accuser,0,0,0
+Reid Hoffman,person,reid-hoffman,Social associate post-conviction,0,0,0
+Victoria's Secret,organization,victoria-secret,Used by Epstein as recruitment cover,0,0,0
+JPMorgan Chase,organization,jpmorgan-chase,Epstein's bank,0,0,0
+Manhattan Townhouse,location,manhattan-townhouse,NYC residence,0,0,0
+Barclays,organization,barclays,CEO resigned over Epstein ties,0,0,0
+Miami Herald,organization,miami-herald,Investigative media outlet,0,0,0
+Stephen Hawking,person,stephen-hawking,Named in documents attending Epstein-funded event,0,0,0
+Naomi Campbell,person,naomi-campbell,Documented in flight logs,0,1,0
+Adriana Ross,person,adriana-ross,Named co-conspirator,0,0,0
+Rupert Murdoch,person,rupert-murdoch,Listed in contact book,0,0,0
+"St. Thomas, USVI",location,st-thomas-usvi,Transit point to Epstein islands,0,0,0
+Mar-a-Lago,location,mar-a-lago,Recruitment location,0,0,0
+MC2 Model Management,organization,mc2-model-management,Modeling agency linked to recruitment,0,0,0
+Metropolitan Correctional Center,location,metropolitan-correctional-center,Detention facility,0,0,0
+MIT Media Lab,organization,mit-media-lab,Accepted Epstein funding,0,0,0
+Apollo Global Management,organization,apollo-global-management,Leon Black's firm,0,0,0
+Michael Reiter,person,michael-reiter,Police chief,0,0,0
+Federal Bureau of Investigation,organization,fbi,Investigating agency,0,0,0
+Glenn Dubin,person,glenn-dubin,Named in court documents,0,1,0
