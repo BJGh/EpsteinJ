@@ -12,4 +12,4 @@ curl -o emails.csv https://www.epsteininvestigation.org
 
 12 March 2026 г. 20:26:09
 Links: 
-(epteinOfficialGovtUSA(lies))[https://www.epsteininvestigation.org]
+[epteinOfficialGovtUSA(lies)](https://www.epsteininvestigation.org)
